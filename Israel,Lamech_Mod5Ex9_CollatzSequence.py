@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python            #
 # Module 5 - Exercise 9 - Collatz Sequence    #
 # Author: Lamech Israel                       #
-# Date:   02/08/2023                          #
+#                                             #
 ###############################################
 
 
